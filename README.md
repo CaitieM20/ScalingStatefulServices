@@ -1,6 +1,6 @@
-# ScalingStatefulServices
+# Scaling Stateful Services
 The accompanying repository for The ScalingStatefulServices talk
-* V1 StrangeLoop 2015 [Video](https://www.youtube.com/watch?v=H0i_bXKwujQ), [Slides](https://speakerdeck.com/caitiem20/building-scalable-stateful-services), [High Scalability Article](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html), [InfoQ Article](http://www.infoq.com/news/2015/11/scaling-stateful-services)
+* V1 StrangeLoop 2015: [Video](https://www.youtube.com/watch?v=H0i_bXKwujQ), [Slides](https://speakerdeck.com/caitiem20/building-scalable-stateful-services), [High Scalability Article](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html), [InfoQ Article](http://www.infoq.com/news/2015/11/scaling-stateful-services)
 
 ## Abstract
 The Stateless Service design principle has become ubiquitous in the tech industry 
