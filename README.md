@@ -13,7 +13,7 @@ how to build them so that they scale, and discuss  distributed and scalable
 services in the real world that implement these techniques successfully.
 
 ## Resources
-
+* [Observability at Twitter: Technical Overview, part 1] (https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i)
 
 ## Bio
 Caitie McCaffrey is a Backend Brat and Distributed Systems Diva at Twitter, where she is the Tech Lead of the Observability Team.  Prior to that she spent the majority of her career building large scale services and systems that power the entertainment industry at 343 Industries, Microsoft Game Studios, and HBO.  Caitie has a degree in Computer Science from Cornell University, and has worked on several video games including Gears of War 2, Gears of War 3, Halo 4, and Halo 5 She maintains a blog at  CaitieM.com  and frequently discusses technology on Twitter @Caitie
