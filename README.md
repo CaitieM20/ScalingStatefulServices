@@ -16,7 +16,7 @@ services in the real world that implement these techniques successfully.
 ## Resources
 * [Strong Consistency Models](https://aphyr.com/posts/313-strong-consistency-models) by Kyle Kingsbury
 * [Consistency Diagram](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) by Peter Bailis et al
-* [Eventual Consistency Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html) by Werner Vogel
+* [Eventual Consistency Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html) by Werner Vogels
 * [Gossip Protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [Epidemeic Algorithms for Replicated Database Maintenance](https://pdfs.semanticscholar.org/49ed/15db181c74c7067ec01800fb5392411c868c.pdf)
 * [Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web](https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
