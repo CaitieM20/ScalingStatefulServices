@@ -22,7 +22,7 @@ services in the real world that implement these techniques successfully.
 * [Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web](https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
 * [Dynamo: Amazon's Highly Available Key Value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) uses Consistent Hashing
 * [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
-* [Suba: Diving into Data at Facebook](https://research.facebook.com/publications/scuba-diving-into-data-at-facebook/)
+* [Scuba: Diving into Data at Facebook](https://research.facebook.com/publications/scuba-diving-into-data-at-facebook/)
 * [Twitter Nuthatch Service](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i) from Observability at Twitter: Technical Overview, part 1
 * [Uber Ringpop](http://uber.github.io/ringpop/)
 * [Uber's Ringpop and the Fight for Flap Dampening](http://www.infoq.com/presentations/halo-4-orleans)
