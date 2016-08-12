@@ -33,7 +33,7 @@ services in the real world that implement these techniques successfully.
   * [Twitter Nuthatch Service](https://blog.twitter.com/2016/observability-at-twitter-technical-overview-part-i) from Observability at Twitter: Technical Overview, part 1
   * Uber Ringpop
     * [Uber Ringpop](http://uber.github.io/ringpop/)
-    * [Uber's Ringpop and the Fight for Flap Dampening](http://www.infoq.com/presentations/halo-4-orleans)
+    * [Uber's Ringpop and the Fight for Flap Dampening](https://www.youtube.com/watch?v=OQyqJWQHp3g)
     * [SWIM:Scalable Weakly-consistnet Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/~asdas/research/dsn02-swim.pdf)
   * Orleans
     * [Microsoft Orleans](http://dotnet.github.io/orleans/)
