@@ -15,10 +15,12 @@ services in the real world that implement these techniques successfully.
 
 ## Resources
 * [Strong Consistency Models](https://aphyr.com/posts/313-strong-consistency-models) by Kyle Kingsbury
+* [Types of Consistency](http://www.cs.colostate.edu/~cs551/CourseNotes/Consistency/TypesConsistency.html)
 * [Consistency Diagram](http://www.vldb.org/pvldb/vol7/p181-bailis.pdf) by Peter Bailis et al
 * [Eventual Consistency Revisited](http://www.allthingsdistributed.com/2008/12/eventually_consistent.html) by Werner Vogels
 * [Gossip Protocol](https://en.wikipedia.org/wiki/Gossip_protocol)
 * [Epidemeic Algorithms for Replicated Database Maintenance](https://pdfs.semanticscholar.org/49ed/15db181c74c7067ec01800fb5392411c868c.pdf)
+* [Membership, Disemination and Population Protocols](https://qconnewyork.com/ny2016/ny2016/presentation/membership-dissemination-and-population-protocols.html) Video to Come
 * [Consistent hashing and random trees: Distributed caching protocols for relieving hot spots on the World Wide Web](https://www.akamai.com/es/es/multimedia/documents/technical-publication/consistent-hashing-and-random-trees-distributed-caching-protocols-for-relieving-hot-spots-on-the-world-wide-web-technical-publication.pdf)
 * [Dynamo: Amazon's Highly Available Key Value Store](http://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf) uses Consistent Hashing
 * [Distributed Hash Table](https://en.wikipedia.org/wiki/Distributed_hash_table)
@@ -31,7 +33,10 @@ services in the real world that implement these techniques successfully.
 * [Orleans: Distributed Virtual Actors for Programmability and Scalability](http://research.microsoft.com/apps/pubs/default.aspx?id=210931)
 * [Builiding the Halo 4 Services with Orleans](http://www.infoq.com/presentations/halo-4-orleans)
 * [Artificial Intelligence A Universal Modular ACTOR Formalism for Artificial Intelligence](http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.77.7898)
+* [Everything will Flow: Distributed Queues & Backpressure](https://www.youtube.com/watch?v=1bNOO3xxMc0&app=desktop)
 * [Fast Database Restarts at Facebook](https://research.facebook.com/publications/fast-database-restarts-at-facebook/)
+* [What we Talk about when we talk about Distributed Systems](http://videlalvaro.github.io/2015/12/learning-about-distributed-systems.html)
+* 
 
 ## Bio
 Caitie McCaffrey is a Backend Brat and Distributed Systems Diva at Twitter.  Prior to that she spent the majority of her career building large scale services and systems that power the entertainment industry at 343 Industries, Microsoft Game Studios, and HBO.  Caitie has a degree in Computer Science from Cornell University, and has worked on several video games including Gears of War 2, Gears of War 3, Halo 4, and Halo 5 She maintains a blog at  CaitieM.com  and frequently discusses technology on Twitter @Caitie
